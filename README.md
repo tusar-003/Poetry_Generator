@@ -37,7 +37,8 @@ Enjoy the Randomly Generated poems!
 ## Setup 🖥️
 1. Clone the repository to your local machine:
 ```bash
-  git clone https://github.com/tusar-003/Poetry_Generator/poetry_generator.git
+  git clone https://github.com/tusar-003/Poetry_Generator.git
+  cd Poetry_Generator.py
 
 ```
 2. Install the required Python libraries:
